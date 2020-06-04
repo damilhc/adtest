@@ -2,7 +2,6 @@
 <<<<<<< HEADs
 
 =======
-ssss
 >>>>>>> master
 import requests
 import time
