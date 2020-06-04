@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
-sss
+<<<<<<< HEADs
 
+=======
+ssss
+>>>>>>> master
 import requests
 import time
 import json
