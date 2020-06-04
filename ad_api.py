@@ -4,6 +4,8 @@ import time
 import json
 
 # ssssss
+
+print("hello")
 def time_cost(func):
     def new_func(*args, **kargs):
         start = time.time()
